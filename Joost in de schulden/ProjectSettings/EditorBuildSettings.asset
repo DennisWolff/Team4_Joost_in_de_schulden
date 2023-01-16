@@ -30,7 +30,10 @@ EditorBuildSettings:
     path: Assets/Scenes/Scene7.unity
     guid: 9bf0783805c10d64880a67e521acdb61
   - enabled: 1
-    path: Assets/Scenes/Scene7.5.unity
+    path: Assets/Scenes/Quiz Start.unity
+    guid: 2ecb8956d8e487046abe75c96a48bef7
+  - enabled: 1
+    path: Assets/Scenes/Scene9.unity
     guid: 2d6e2a7c6115ae74dacbaea40251ebe9
   - enabled: 1
     path: Assets/Scenes/Scene8.unity
