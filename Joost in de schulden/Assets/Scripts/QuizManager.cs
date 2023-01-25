@@ -44,6 +44,7 @@ public class QuizManager : MonoBehaviour
         
     }
 
+
     public void correct()
     {
         // Wanneer je joun antwoord goed hebt.
@@ -91,11 +92,15 @@ public class QuizManager : MonoBehaviour
             QuestionTxt.text = QnA[currentQuestion].Question;
             SetAnswer();
         }
+
+
         else
         {
             Debug.Log("Out of Questions");
             GameOver();
         }
+
+        
 
         
     }
