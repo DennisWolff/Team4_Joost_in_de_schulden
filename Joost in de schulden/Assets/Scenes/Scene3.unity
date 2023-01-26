@@ -931,24 +931,24 @@ MonoBehaviour:
     DialogueToPrint: Hallo Max,Lisa en Mo jullie zijn vandaag team 1 en jullie gaan
       strijden tegen team 2.
     skippable: 1
-    LettersPerSecond: 5.2
+    LettersPerSecond: 15
   - SubjectText: QuizMeester
     DialogueToPrint: Jullie hebben 10 vragen die jullie moeten beantwoorden de winnaar
       wint en neemt de prijs mee naar huis.
     skippable: 1
-    LettersPerSecond: 5.2
+    LettersPerSecond: 15
   - SubjectText: QuizMeester
     DialogueToPrint: We gaan zo beginnen...
     skippable: 1
-    LettersPerSecond: 5.2
+    LettersPerSecond: 15
   - SubjectText: QuizMeester
     DialogueToPrint: Ben je er klaar voor?
     skippable: 1
-    LettersPerSecond: 5.2
+    LettersPerSecond: 15
   - SubjectText: QuizMeester
     DialogueToPrint: Druk op volgende om te beginnen.
     skippable: 1
-    LettersPerSecond: 5.2
+    LettersPerSecond: 15
   SubjectText: {fileID: 43729509}
   BodyText: {fileID: 1488620157}
 --- !u!1 &1396104814

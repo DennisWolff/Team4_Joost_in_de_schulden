@@ -1108,25 +1108,25 @@ MonoBehaviour:
   - SubjectText: Verteller
     DialogueToPrint: Max,Lisa en Mo zijn in de auto op weg naar de Quiz..
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: Lisa
     DialogueToPrint: Max, Ik had zo effe een vraag waar gaat de quiz eigenlijk over?
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: Max
     DialogueToPrint: Ohw sorry Lisa, Ik zou het uitleggen... Het gaat over geld lenen
       bij DUO.
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: Max
     DialogueToPrint: Wij hebben 10 Vragen doen we het goed dan mogen we de prijs
       mee naar huis nemen!
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: Verhaal Verteller
     DialogueToPrint: De 3 zijn heel blij en hebben er super veel zin in!
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   SubjectText: {fileID: 401940713}
   BodyText: {fileID: 919294109}
 --- !u!1 &1582801339

@@ -819,41 +819,41 @@ MonoBehaviour:
   - SubjectText: TV
     DialogueToPrint: TV... ZPSZTTZTTTT...
     skippable: 1
-    LettersPerSecond: 5.6
+    LettersPerSecond: 15
   - SubjectText: TV
     DialogueToPrint: Welkom bij de mystery Quiz, wij zijn aan het zoeken naar nieuwe
       mensen die mee willen doen met de quiz.
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: TV
     DialogueToPrint: 'Er is een prijze pot van wel 100.000 euro, lijkt dit jou leuk
       meld je dan aan!. '
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: TV
     DialogueToPrint: De QuizShow begint vanavond om 8 uur.
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: Max
     DialogueToPrint: Wow.. Dit lijkt me echt super om aan mee te doen.
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: Max
     DialogueToPrint: 'Ik zal is kijken als Lisa en Mo het ook wat vinden.  '
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: Telefoon
     DialogueToPrint: trppp.. trppp..
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: Max
     DialogueToPrint: Hey Lisa en Mo!
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: Verhaal Verteller
     DialogueToPrint: Hey Max! kreeg hij te horen van beide.
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: Max
     DialogueToPrint: Ik had zo effe een leuk idee, zouden jullie samen met mij mee
       willen doen aan een Quiz.
@@ -863,87 +863,87 @@ MonoBehaviour:
     DialogueToPrint: Niet zomaar een Quiz, maar eentje waar we allemaal onze schulden
       mee afkunnen betalen.
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: Lisa
     DialogueToPrint: WOW! Dat klinkt echt super gezellig en het helpt ons allemaal
       ook!
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: Mo
     DialogueToPrint: Ja! dat klinkt echt als een uitstekende idee max laten we dat
       doen!
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: Max
     DialogueToPrint: Is goed dan bel ik zo gelijk naar de quiz master om ons in te
       schrijven als een team!
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: Telefoon
     DialogueToPrint: trppp.. trppp.. ging de telefoon weer.
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: Max
     DialogueToPrint: 'Hallo, mijn naam is Max en ik wil heel graag met mijn vrienden
       groep meedoen aan de Quiz.
 
 '
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: QuizMeester
     DialogueToPrint: 'Hallo Max, Leuk dat je belt over de Quiz..
 
 '
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: QuizMeester
     DialogueToPrint: 'Wij willen heel graag dat jullie meedoen lijkt ons super leuk!
 
 '
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: QuizMeester
     DialogueToPrint: 'Welke namen doen mee aan de Quiz?
 
 '
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: Max
     DialogueToPrint: 'Max,Lisa en Mo.
 
 '
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: QuizMeester
     DialogueToPrint: Is goed bedankt, Dan zie ik jullie dan.
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: Max
     DialogueToPrint: Ik plaats in de groepsapp een bericht.
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: Telefoon
     DialogueToPrint: Hallo vrienden, ik heb geregeld dat we vanavond mee kunnen doen
       aan de quiz, We moeten daar zijn om 8 uur.
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: Lisa
     DialogueToPrint: Is goed, ik kan jullie dan wel meenemen er naar toe.
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: Verhaal Verteller
     DialogueToPrint: Max, Lisa en Mo gaan allemaal zich zelf opfrissen en voorbereiden
       voor de Quiz.
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: Deur
     DialogueToPrint: Ding.. Dong.. Ging de deur.
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   - SubjectText: Max
     DialogueToPrint: Ik kom eraan!
     skippable: 1
-    LettersPerSecond: 5.1
+    LettersPerSecond: 15
   SubjectText: {fileID: 232953881}
   BodyText: {fileID: 226337429}
 --- !u!1 &1747720831
